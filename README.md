@@ -12,11 +12,21 @@ Image Recognition App is an Android application built using Jetpack Compose and 
 
 Here are some screenshots of the app:
 
-<img src="images/screenshot1.png" width="200"/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_1.png width="200"/> <img src="images/screenshot3.png" width="200"/> <img src="images/screenshot4.png" width="200"/>
+<img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_2.png/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_1.png width="200"/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_3.png width="200"/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_4.png width="200"/>
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ImageRecognitionApp.git
+   git clone https://github.com/11iamvikas/Image-Recognition-App.git
+2. Open the project in Android Studio.
+3. Build and run the app on your device or emulator.
+
+## Usage
+1. Open the App.
+2. Point your camera towards a monument.
+3. The App will detect the monument and display it's name.
+
+##Credit
+This app uses a pre-trained image recognition model published by Google TensorFlow. You can find more information about the model [here](https://www.kaggle.com/models/google/landmarks/tfLite/classifier-europe-v1/1?tfhub-redirect=true).
