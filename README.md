@@ -12,7 +12,7 @@ Image Recognition App is an Android application built using Jetpack Compose and 
 
 Here are some screenshots of the app:
 
-<img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_2.png/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_1.png width="200"/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_3.png width="200"/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_4.png width="200"/>
+<img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_2.png width="200"/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_1.png width="200"/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_3.png width="200"/> <img src=https://github.com/11iamvikas/Image-Recognition-App/blob/master/app/src/main/assets/img_4.png width="200"/>
 
 ## Installation
 
