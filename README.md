@@ -28,5 +28,5 @@ Here are some screenshots of the app:
 2. Point your camera towards a monument.
 3. The App will detect the monument and display it's name.
 
-##Credit
+## Credit
 This app uses a pre-trained image recognition model published by Google TensorFlow. You can find more information about the model [here](https://www.kaggle.com/models/google/landmarks/tfLite/classifier-europe-v1/1?tfhub-redirect=true).
